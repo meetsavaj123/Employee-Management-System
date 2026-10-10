@@ -1,0 +1,15 @@
+
+# .NET generated files
+**/bin/
+**/obj/
+
+# Python and Selenium
+**/.venv/
+**/__pycache__/
+**/.pytest_cache/
+*.pyc
+.env
+
+# Generated test reports
+**/reports/
+**/screenshots/
